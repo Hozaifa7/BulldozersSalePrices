@@ -29,7 +29,10 @@ This project focuses on building a machine learning regression model to predict 
 ---
 
 ## 📊 Dataset
-The dataset used in this project is the **Bluebook for Bulldozers** dataset. It contains historical auction data on bulldozers. For more information, visit the [dataset source](https://www.kaggle.com/c/bluebook-for-bulldozers).
+The dataset used in this project is the **Bluebook for Bulldozers** dataset. It contains historical auction data on bulldozers. For more information, visit the [dataset source](https://www.kaggle.com/c/bluebook-for-bulldozers).  
+
+You can download the dataset zip file through the following link:<br> 
+[bluebook-for-bulldozers](https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip)
 
 ---
 
