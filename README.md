@@ -45,21 +45,24 @@ The dataset used in this project is the **Bluebook for Bulldozers** dataset. It 
 ## 📎 How to Run
 1. Clone this repository:
    ```bash
-   git clone [your-repository-link]
+   git clone https://github.com/Hozaifa7/BulldozersSalePrices/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [your-repository-name]
+   cd BuldozersSalePrices
    ```
 3. Install the required libraries:
+
    All libraries are listed in the requirements.txt file. Install them by running:
    ```bash
    pip install -r requirements.txt
    ```
+  
 4. Download the dataset from the source or the zip file provided in the repository and place it in the project directory.
-   
+
 5. Open the notebook:
    ```bash
    jupyter notebook end-to-end-bluebook-bulldozer-price-regression-v2.ipynb
    ```
+   
 6. Run all cells to execute the workflow.
